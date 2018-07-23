@@ -20,5 +20,8 @@ exports[`Should render Header correctly 1`] = `
   >
     Create Expense
   </NavLink>
+  <button>
+    Logout
+  </button>
 </header>
 `;
